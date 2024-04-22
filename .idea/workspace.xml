@@ -4,22 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6855e5-a0a9-49d1-9630-7439a5c4b19b" name="Changes" comment="Face and hand detection using mediapipe">
-      <change afterPath="$PROJECT_DIR$/computer_vision/detection/face_and_hand_landmarks.ipynb" afterDir="false" />
+    <list default="true" id="4c6855e5-a0a9-49d1-9630-7439a5c4b19b" name="Changes" comment="emotion to emoji shaping">
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/OpenSansEmoji.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/crying.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/data_collection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/emotion_recognition.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/emotion_recognition.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/happy.npy" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/labels.npy" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/lucky.npy" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/model.h5" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/thinking.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/training.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/unlucky.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_and_hand_landmarks.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +125,7 @@
       <workItem from="1713679565911" duration="788000" />
       <workItem from="1713680363499" duration="10781000" />
       <workItem from="1713812034211" duration="3481000" />
-      <workItem from="1713815937544" duration="5704000" />
+      <workItem from="1713815937544" duration="6478000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -158,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713687181460</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="emotion to emoji shaping">
+      <option name="closed" value="true" />
+      <created>1713822177942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713822177942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +169,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Face and hand detection using mediapipe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Face and hand detection using mediapipe" />
+    <MESSAGE value="emotion to emoji shaping" />
+    <option name="LAST_COMMIT_MESSAGE" value="emotion to emoji shaping" />
   </component>
 </project>
