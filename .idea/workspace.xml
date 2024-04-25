@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c6855e5-a0a9-49d1-9630-7439a5c4b19b" name="Changes" comment="emotion to emoji shaping">
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/OpenSansEmoji.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/crying.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/happy.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/labels.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/lucky.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/thinking.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/computer_vision/gestures_training/unlucky.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_science/full_pandas_tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_science/full_pandas_tutorial.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meta_llama/chat_llama.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_to_image/text_to_image.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_to_image/text_to_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer_vision/detection/face_and_hand_landmarks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/computer_vision/detection/face_and_hand_landmarks.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,12 @@
       <workItem from="1713679565911" duration="788000" />
       <workItem from="1713680363499" duration="10781000" />
       <workItem from="1713812034211" duration="3481000" />
-      <workItem from="1713815937544" duration="6478000" />
+      <workItem from="1713815937544" duration="21739000" />
+      <workItem from="1713981714470" duration="1446000" />
+      <workItem from="1713988264117" duration="1247000" />
+      <workItem from="1713989519032" duration="1571000" />
+      <workItem from="1713995834487" duration="7000" />
+      <workItem from="1713997247450" duration="705000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -159,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713822177942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="emotion to emoji shaping">
+      <option name="closed" value="true" />
+      <created>1713829739050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713829739050</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
