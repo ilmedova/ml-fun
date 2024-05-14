@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6855e5-a0a9-49d1-9630-7439a5c4b19b" name="Changes" comment="emotion to emoji shaping">
-      <change afterPath="$PROJECT_DIR$/data_science/full_pandas_tutorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_science/full_pandas_tutorial.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meta_llama/chat_llama.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_to_image/text_to_image.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_to_image/text_to_image.py" afterDir="false" />
+    <list default="true" id="4c6855e5-a0a9-49d1-9630-7439a5c4b19b" name="Changes" comment="llm chatbot example added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer_vision/detection/face_and_hand_landmarks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/computer_vision/detection/face_and_hand_landmarks.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +96,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -130,6 +124,8 @@
       <workItem from="1713989519032" duration="1571000" />
       <workItem from="1713995834487" duration="7000" />
       <workItem from="1713997247450" duration="705000" />
+      <workItem from="1714208165499" duration="2305000" />
+      <workItem from="1715225149575" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -171,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713829739050</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="llm chatbot example added">
+      <option name="closed" value="true" />
+      <created>1714208180000</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714208180000</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +186,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Face and hand detection using mediapipe" />
     <MESSAGE value="emotion to emoji shaping" />
-    <option name="LAST_COMMIT_MESSAGE" value="emotion to emoji shaping" />
+    <MESSAGE value="llm chatbot example added" />
+    <option name="LAST_COMMIT_MESSAGE" value="llm chatbot example added" />
   </component>
 </project>
