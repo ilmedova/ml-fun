@@ -1,1 +1,0 @@
-Hello {first_name} {last_name}! This is your last purchased item: {item}

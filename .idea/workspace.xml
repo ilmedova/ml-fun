@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6855e5-a0a9-49d1-9630-7439a5c4b19b" name="Changes" comment="readme updated">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/customer_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/email_template.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/model_promt_parser.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/news_articles.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/problem2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/problem_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c6855e5-a0a9-49d1-9630-7439a5c4b19b" name="Changes" comment="langchain practice: sentiment analysis using OpenAI">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/customer_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/email_template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/news_articles.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/problem2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/problem_1.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +134,7 @@
       <workItem from="1714208165499" duration="2305000" />
       <workItem from="1715225149575" duration="31000" />
       <workItem from="1715730519490" duration="1576000" />
-      <workItem from="1715971606579" duration="8062000" />
+      <workItem from="1715971606579" duration="8571000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -195,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715730811271</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="langchain practice: sentiment analysis using OpenAI">
+      <option name="closed" value="true" />
+      <created>1715984486382</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715984486382</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +224,7 @@
     <MESSAGE value="emotion to emoji shaping" />
     <MESSAGE value="llm chatbot example added" />
     <MESSAGE value="readme updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme updated" />
+    <MESSAGE value="langchain practice: sentiment analysis using OpenAI" />
+    <option name="LAST_COMMIT_MESSAGE" value="langchain practice: sentiment analysis using OpenAI" />
   </component>
 </project>
